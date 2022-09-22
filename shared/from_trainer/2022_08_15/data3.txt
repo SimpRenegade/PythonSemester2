@@ -1,0 +1,10 @@
+Name    Wert1 Wert2 Wert3
+Zeile 1 4.6 Hallo
+Zeile 2 4.6 Hallo
+Zeile 3 4.6 Hallo
+
+Zeile 5 4.6 Hallo
+Zeile 6 4.6 Hallo
+Zeile 7 4.6 Hallo
+
+Zeile 9 4.6 Hallo
